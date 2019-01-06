@@ -1,3 +1,6 @@
+  // THIS IS DEFUNCT
+  
+  
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyCX-HxZYF6GBJPaA7TFiZYmpSDMGPVU8CE",
